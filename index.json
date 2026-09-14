@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "builtAt": "2026-09-13T17:24:52.345Z",
+  "builtAt": "2026-09-14T01:58:59.753Z",
   "packs": {
     "ar_harakat": {
       "bytes": 29001806,
@@ -39,188 +39,200 @@
       "mb": 0
     },
     "ps_g1_letters": {
-      "bytes": 16816420,
+      "bytes": 16816423,
       "mb": 16.04
     },
     "ps_g1_alif": {
-      "bytes": 529344,
+      "bytes": 529417,
       "mb": 0.5
     },
     "ps_g1_as": {
-      "bytes": 262663,
+      "bytes": 262720,
       "mb": 0.25
     },
     "ps_g1_ba": {
-      "bytes": 275566,
+      "bytes": 275623,
       "mb": 0.26
     },
     "ps_g1_pa": {
-      "bytes": 299697,
+      "bytes": 299761,
       "mb": 0.29
     },
     "ps_g1_ta": {
-      "bytes": 407099,
+      "bytes": 407193,
       "mb": 0.39
     },
     "ps_g1_tte": {
-      "bytes": 474518,
+      "bytes": 474608,
       "mb": 0.45
     },
     "ps_g1_tha": {
-      "bytes": 616032,
+      "bytes": 616147,
       "mb": 0.59
     },
     "ps_g1_jeem": {
-      "bytes": 484427,
+      "bytes": 484527,
       "mb": 0.46
     },
     "ps_g1_che": {
-      "bytes": 592021,
-      "mb": 0.56
+      "bytes": 598285,
+      "mb": 0.57
     },
     "ps_g1_tse": {
-      "bytes": 636357,
+      "bytes": 636497,
       "mb": 0.61
     },
     "ps_g1_dze": {
-      "bytes": 535235,
+      "bytes": 535388,
       "mb": 0.51
     },
     "ps_g1_heh": {
-      "bytes": 694098,
+      "bytes": 693055,
       "mb": 0.66
     },
     "ps_g1_khe": {
-      "bytes": 763208,
-      "mb": 0.73
+      "bytes": 533436,
+      "mb": 0.51
     },
     "ps_g1_dal": {
-      "bytes": 889110,
-      "mb": 0.85
+      "bytes": 453912,
+      "mb": 0.43
     },
     "ps_g1_ddal": {
-      "bytes": 911969,
-      "mb": 0.87
+      "bytes": 485079,
+      "mb": 0.46
     },
     "ps_g1_zal": {
-      "bytes": 719634,
-      "mb": 0.69
+      "bytes": 559013,
+      "mb": 0.53
     },
     "ps_g1_re": {
-      "bytes": 642323,
-      "mb": 0.61
+      "bytes": 720022,
+      "mb": 0.69
     },
     "ps_g1_rre": {
-      "bytes": 670866,
-      "mb": 0.64
+      "bytes": 705380,
+      "mb": 0.67
     },
     "ps_g1_ze": {
-      "bytes": 745302,
+      "bytes": 745468,
       "mb": 0.71
     },
     "ps_g1_zhe": {
-      "bytes": 543309,
+      "bytes": 543469,
       "mb": 0.52
     },
     "ps_g1_sin": {
-      "bytes": 604289,
+      "bytes": 604439,
       "mb": 0.58
     },
     "ps_g1_shin": {
-      "bytes": 476061,
-      "mb": 0.45
+      "bytes": 501555,
+      "mb": 0.48
     },
     "ps_g1_gge": {
-      "bytes": 62525,
-      "mb": 0.06
+      "bytes": 204736,
+      "mb": 0.2
     },
     "ps_g1_xhin": {
-      "bytes": 63326,
-      "mb": 0.06
+      "bytes": 253635,
+      "mb": 0.24
     },
     "ps_g1_sad": {
-      "bytes": 62343,
-      "mb": 0.06
+      "bytes": 168805,
+      "mb": 0.16
     },
     "ps_g1_dad": {
-      "bytes": 71069,
-      "mb": 0.07
+      "bytes": 316988,
+      "mb": 0.3
     },
     "ps_g1_toy": {
-      "bytes": 70017,
-      "mb": 0.07
+      "bytes": 217164,
+      "mb": 0.21
     },
     "ps_g1_zoy": {
-      "bytes": 59623,
-      "mb": 0.06
+      "bytes": 366001,
+      "mb": 0.35
     },
     "ps_g1_ain": {
-      "bytes": 68140,
-      "mb": 0.06
+      "bytes": 189709,
+      "mb": 0.18
     },
     "ps_g1_ghain": {
-      "bytes": 67785,
-      "mb": 0.06
+      "bytes": 341427,
+      "mb": 0.33
     },
     "ps_g1_fe": {
-      "bytes": 76580,
-      "mb": 0.07
+      "bytes": 310696,
+      "mb": 0.3
     },
     "ps_g1_qaf": {
-      "bytes": 70507,
-      "mb": 0.07
+      "bytes": 271963,
+      "mb": 0.26
     },
     "ps_g1_kaf": {
-      "bytes": 60830,
-      "mb": 0.06
+      "bytes": 333068,
+      "mb": 0.32
     },
     "ps_g1_gaf": {
-      "bytes": 62280,
-      "mb": 0.06
+      "bytes": 283537,
+      "mb": 0.27
     },
     "ps_g1_lam": {
-      "bytes": 68198,
-      "mb": 0.07
+      "bytes": 218986,
+      "mb": 0.21
     },
     "ps_g1_mim": {
-      "bytes": 76947,
-      "mb": 0.07
+      "bytes": 450146,
+      "mb": 0.43
     },
     "ps_g1_nun": {
-      "bytes": 80359,
-      "mb": 0.08
+      "bytes": 312355,
+      "mb": 0.3
     },
     "ps_g1_nnun": {
-      "bytes": 130811,
-      "mb": 0.12
+      "bytes": 365279,
+      "mb": 0.35
     },
     "ps_g1_waw": {
-      "bytes": 82630,
-      "mb": 0.08
+      "bytes": 207088,
+      "mb": 0.2
     },
     "ps_g1_he": {
-      "bytes": 87922,
-      "mb": 0.08
+      "bytes": 398263,
+      "mb": 0.38
     },
     "ps_g1_ye": {
-      "bytes": 83861,
-      "mb": 0.08
+      "bytes": 579497,
+      "mb": 0.55
     },
     "ps_g1_ee": {
-      "bytes": 40765,
-      "mb": 0.04
+      "bytes": 497126,
+      "mb": 0.47
     },
     "ps_g1_ey": {
-      "bytes": 94466,
-      "mb": 0.09
+      "bytes": 570794,
+      "mb": 0.54
     },
     "ps_g1_yay": {
-      "bytes": 34903,
-      "mb": 0.03
+      "bytes": 513606,
+      "mb": 0.49
     },
     "ps_g1_yeh": {
-      "bytes": 81552,
-      "mb": 0.08
+      "bytes": 344838,
+      "mb": 0.33
+    },
+    "ps_g1_watan": {
+      "bytes": 167898,
+      "mb": 0.16
+    },
+    "ps_g1_flag": {
+      "bytes": 354630,
+      "mb": 0.34
+    },
+    "ps_g1_respect": {
+      "bytes": 451793,
+      "mb": 0.43
     }
   }
 }
