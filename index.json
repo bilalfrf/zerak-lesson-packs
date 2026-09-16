@@ -1,14 +1,15 @@
 {
   "version": 3,
-  "builtAt": "2026-09-14T04:44:19.064Z",
+  "builtAt": "2026-09-16T14:52:40.633Z",
   "packs": {
     "ar_harakat": {
       "bytes": 29001806,
       "mb": 27.66
     },
     "ar_letters": {
-      "bytes": 17833616,
-      "mb": 17.01
+      "bytes": 3029842,
+      "mb": 2.89,
+      "stamp": "c55a85fa7b28"
     },
     "ar_noorani": {
       "bytes": 60962102,
@@ -33,256 +34,331 @@
     "ps_core": {
       "bytes": 17808850,
       "mb": 16.98,
-      "stamp": "b0e3f84b3688"
+      "stamp": "4f5a93dfd83e"
     },
     "islamic_topic": {
       "bytes": 233,
       "mb": 0
     },
     "ps_g1_letters": {
-      "bytes": 17473716,
+      "bytes": 17473717,
       "mb": 16.66,
-      "stamp": "a0aa0ea4044f"
+      "stamp": "3d202e27148c"
     },
     "ps_g1_alif": {
-      "bytes": 529417,
+      "bytes": 529344,
       "mb": 0.5,
-      "stamp": "14a115d0efa4"
+      "stamp": "0f3390938539"
     },
     "ps_g1_as": {
-      "bytes": 235981,
-      "mb": 0.23,
-      "stamp": "9d0cedb55a14"
+      "bytes": 326737,
+      "mb": 0.31,
+      "stamp": "610f2a7129e0"
     },
     "ps_g1_ba": {
-      "bytes": 248969,
-      "mb": 0.24,
-      "stamp": "0887b6a001a4"
+      "bytes": 341835,
+      "mb": 0.33,
+      "stamp": "4e3c2f85dd0a"
     },
     "ps_g1_pa": {
-      "bytes": 293374,
-      "mb": 0.28,
-      "stamp": "4e172b72ff07"
+      "bytes": 314309,
+      "mb": 0.3,
+      "stamp": "cd14c6db8454"
     },
     "ps_g1_ta": {
-      "bytes": 340194,
-      "mb": 0.32,
-      "stamp": "fb4fe608a4c5"
+      "bytes": 573823,
+      "mb": 0.55,
+      "stamp": "13653a9673b9"
     },
     "ps_g1_tte": {
-      "bytes": 474608,
+      "bytes": 474519,
       "mb": 0.45,
-      "stamp": "01cd0181a123"
+      "stamp": "02f435553ce3"
     },
     "ps_g1_tha": {
-      "bytes": 609249,
-      "mb": 0.58,
-      "stamp": "8024cdb669f0"
+      "bytes": 633948,
+      "mb": 0.6,
+      "stamp": "f8493fba1714"
     },
     "ps_g1_jeem": {
-      "bytes": 477253,
-      "mb": 0.46,
-      "stamp": "4bdb1fc5baeb"
+      "bytes": 502698,
+      "mb": 0.48,
+      "stamp": "ed0a820aa622"
     },
     "ps_g1_che": {
-      "bytes": 591669,
-      "mb": 0.56,
-      "stamp": "0d7c9ddb8a8d"
+      "bytes": 1267685,
+      "mb": 1.21,
+      "stamp": "bd6d68f357eb"
     },
     "ps_g1_tse": {
-      "bytes": 622281,
-      "mb": 0.59,
-      "stamp": "76656be37d55"
+      "bytes": 673209,
+      "mb": 0.64,
+      "stamp": "cde39dcb57b4"
     },
     "ps_g1_dze": {
-      "bytes": 523158,
-      "mb": 0.5,
-      "stamp": "2aec93665332"
+      "bytes": 565545,
+      "mb": 0.54,
+      "stamp": "d07ce7955a25"
     },
     "ps_g1_heh": {
-      "bytes": 652335,
-      "mb": 0.62,
-      "stamp": "22a8a1732c3e"
+      "bytes": 796931,
+      "mb": 0.76,
+      "stamp": "9fe663fe727e"
     },
     "ps_g1_khe": {
-      "bytes": 533435,
-      "mb": 0.51,
-      "stamp": "e101fa443e5e"
+      "bytes": 1013956,
+      "mb": 0.97,
+      "stamp": "be5901fbf85e"
     },
     "ps_g1_dal": {
-      "bytes": 453911,
-      "mb": 0.43,
-      "stamp": "2bf3a4dfe98a"
+      "bytes": 1342588,
+      "mb": 1.28,
+      "stamp": "a5ab97fb4e1b"
     },
     "ps_g1_ddal": {
-      "bytes": 485078,
-      "mb": 0.46,
-      "stamp": "b4d08f0a07a7"
+      "bytes": 1396611,
+      "mb": 1.33,
+      "stamp": "a50631fb00ac"
     },
     "ps_g1_zal": {
-      "bytes": 531624,
-      "mb": 0.51,
-      "stamp": "6306faa9e43b"
+      "bytes": 960318,
+      "mb": 0.92,
+      "stamp": "d80539cef45d"
     },
     "ps_g1_re": {
-      "bytes": 687796,
-      "mb": 0.66,
-      "stamp": "799d1b0a1da2"
+      "bytes": 1930034,
+      "mb": 1.84,
+      "stamp": "3f76095fc428"
     },
     "ps_g1_rre": {
-      "bytes": 697885,
-      "mb": 0.67,
-      "stamp": "a1951ad9905a"
+      "bytes": 3862803,
+      "mb": 3.68,
+      "stamp": "1c5c70ae313f"
     },
     "ps_g1_ze": {
-      "bytes": 745468,
+      "bytes": 745302,
       "mb": 0.71,
-      "stamp": "86167b7eb1ed"
+      "stamp": "b8d09bac4eee"
     },
     "ps_g1_zhe": {
-      "bytes": 504299,
-      "mb": 0.48,
-      "stamp": "17bd9e25db96"
+      "bytes": 641462,
+      "mb": 0.61,
+      "stamp": "3480b389edc2"
     },
     "ps_g1_sin": {
-      "bytes": 584132,
-      "mb": 0.56,
-      "stamp": "c7d649c82d0a"
+      "bytes": 656018,
+      "mb": 0.63,
+      "stamp": "c9e504f1f284"
     },
     "ps_g1_shin": {
-      "bytes": 473646,
-      "mb": 0.45,
-      "stamp": "a3f6022b7cac"
+      "bytes": 1355769,
+      "mb": 1.29,
+      "stamp": "867072bc1eab"
     },
     "ps_g1_gge": {
-      "bytes": 197810,
-      "mb": 0.19,
-      "stamp": "3441cdfc38eb"
+      "bytes": 7342189,
+      "mb": 7,
+      "stamp": "9bba6e9b3fc1"
     },
     "ps_g1_xhin": {
-      "bytes": 252471,
-      "mb": 0.24,
-      "stamp": "116181f2ebab"
+      "bytes": 658748,
+      "mb": 0.63,
+      "stamp": "63dd172f39d1"
     },
     "ps_g1_sad": {
-      "bytes": 161351,
-      "mb": 0.15,
-      "stamp": "7c3e265141b7"
+      "bytes": 620642,
+      "mb": 0.59,
+      "stamp": "5a5da7eb9938"
     },
     "ps_g1_dad": {
-      "bytes": 298934,
-      "mb": 0.29,
-      "stamp": "84a16fad9204"
+      "bytes": 1207666,
+      "mb": 1.15,
+      "stamp": "970ab4694855"
     },
     "ps_g1_toy": {
-      "bytes": 217163,
-      "mb": 0.21,
-      "stamp": "885fa9611153"
+      "bytes": 1880742,
+      "mb": 1.79,
+      "stamp": "d0373cba1ca5"
     },
     "ps_g1_zoy": {
-      "bytes": 341285,
-      "mb": 0.33,
-      "stamp": "a82378433878"
+      "bytes": 704425,
+      "mb": 0.67,
+      "stamp": "bb792623db0d"
     },
     "ps_g1_ain": {
-      "bytes": 184134,
-      "mb": 0.18,
-      "stamp": "0b2d51ffe841"
+      "bytes": 548228,
+      "mb": 0.52,
+      "stamp": "2746ec74e1aa"
     },
     "ps_g1_ghain": {
-      "bytes": 340259,
-      "mb": 0.32,
-      "stamp": "7a82ab94b850"
+      "bytes": 809541,
+      "mb": 0.77,
+      "stamp": "5b513103650d"
     },
     "ps_g1_fe": {
-      "bytes": 298308,
-      "mb": 0.28,
-      "stamp": "cb42784aaa25"
+      "bytes": 560589,
+      "mb": 0.53,
+      "stamp": "13a8f2f7e7b1"
     },
     "ps_g1_qaf": {
-      "bytes": 265165,
-      "mb": 0.25,
-      "stamp": "94b18fddbd27"
+      "bytes": 583079,
+      "mb": 0.56,
+      "stamp": "2d93acead924"
     },
     "ps_g1_kaf": {
-      "bytes": 325106,
-      "mb": 0.31,
-      "stamp": "cd77c50a8c90"
+      "bytes": 718900,
+      "mb": 0.69,
+      "stamp": "5c9c206bd2b0"
     },
     "ps_g1_gaf": {
-      "bytes": 264339,
-      "mb": 0.25,
-      "stamp": "e67b845e0015"
+      "bytes": 606512,
+      "mb": 0.58,
+      "stamp": "79a3a6def1e5"
     },
     "ps_g1_lam": {
-      "bytes": 206605,
-      "mb": 0.2,
-      "stamp": "ca25c9805bc8"
+      "bytes": 2073610,
+      "mb": 1.98,
+      "stamp": "a16c3153106d"
     },
     "ps_g1_mim": {
-      "bytes": 429420,
-      "mb": 0.41,
-      "stamp": "150629712918"
+      "bytes": 1372809,
+      "mb": 1.31,
+      "stamp": "ce52b89b33a1"
     },
     "ps_g1_nun": {
-      "bytes": 306775,
-      "mb": 0.29,
-      "stamp": "bc9be32d415f"
+      "bytes": 652862,
+      "mb": 0.62,
+      "stamp": "e9af432fe715"
     },
     "ps_g1_nnun": {
-      "bytes": 352461,
-      "mb": 0.34,
-      "stamp": "a54659d5b3ed"
+      "bytes": 2783021,
+      "mb": 2.65,
+      "stamp": "2fc20708e37a"
     },
     "ps_g1_waw": {
-      "bytes": 200287,
-      "mb": 0.19,
-      "stamp": "abf06a566ac3"
+      "bytes": 543395,
+      "mb": 0.52,
+      "stamp": "681b848b148e"
     },
     "ps_g1_he": {
-      "bytes": 373334,
-      "mb": 0.36,
-      "stamp": "d6fe5230561d"
+      "bytes": 832074,
+      "mb": 0.79,
+      "stamp": "682a456b0bd7"
     },
     "ps_g1_ye": {
-      "bytes": 565941,
-      "mb": 0.54,
-      "stamp": "5d067b327b13"
+      "bytes": 1465725,
+      "mb": 1.4,
+      "stamp": "5c06b6f59665"
     },
     "ps_g1_ee": {
-      "bytes": 491547,
-      "mb": 0.47,
-      "stamp": "850196d3ea47"
+      "bytes": 1466726,
+      "mb": 1.4,
+      "stamp": "ed15a699f888"
     },
     "ps_g1_ey": {
-      "bytes": 551133,
-      "mb": 0.53,
-      "stamp": "a0df14281d50"
+      "bytes": 626331,
+      "mb": 0.6,
+      "stamp": "3d7601abe445"
     },
     "ps_g1_yay": {
-      "bytes": 499998,
-      "mb": 0.48,
-      "stamp": "abba006056cf"
+      "bytes": 641346,
+      "mb": 0.61,
+      "stamp": "deb14fe288f1"
     },
     "ps_g1_yeh": {
-      "bytes": 331284,
-      "mb": 0.32,
-      "stamp": "6cf68836709f"
+      "bytes": 674688,
+      "mb": 0.64,
+      "stamp": "b642d263e1e4"
     },
     "ps_g1_watan": {
-      "bytes": 166735,
-      "mb": 0.16,
-      "stamp": "5c62927c0289"
+      "bytes": 682112,
+      "mb": 0.65,
+      "stamp": "8a40b7df1304"
     },
     "ps_g1_flag": {
-      "bytes": 346666,
-      "mb": 0.33,
-      "stamp": "d86f27882bef"
+      "bytes": 779989,
+      "mb": 0.74,
+      "stamp": "3ed9f4a8cb8f"
     },
     "ps_g1_respect": {
-      "bytes": 437940,
-      "mb": 0.42,
-      "stamp": "2309b3ca6c82"
+      "bytes": 1459776,
+      "mb": 1.39,
+      "stamp": "04825407b282"
+    },
+    "ar_alharakat": {
+      "bytes": 14199029,
+      "mb": 13.54,
+      "stamp": "0b2f5addfeb1"
+    },
+    "ar_fatha": {
+      "bytes": 1766762,
+      "mb": 1.68,
+      "stamp": "d7ec61e2dbff"
+    },
+    "ar_kasra": {
+      "bytes": 2131577,
+      "mb": 2.03,
+      "stamp": "0a1d4c11a663"
+    },
+    "ar_damma": {
+      "bytes": 2449874,
+      "mb": 2.34,
+      "stamp": "a213aa70fccf"
+    },
+    "ar_fathaten": {
+      "bytes": 2538493,
+      "mb": 2.42,
+      "stamp": "c1f9253e8b09"
+    },
+    "ar_kasraten": {
+      "bytes": 2143522,
+      "mb": 2.04,
+      "stamp": "18a5223890df"
+    },
+    "ar_dammaten": {
+      "bytes": 2149444,
+      "mb": 2.05,
+      "stamp": "a9ec82157b6a"
+    },
+    "ar_murakkab": {
+      "bytes": 7424470,
+      "mb": 7.08,
+      "stamp": "b0764981130b"
+    },
+    "ar_muqattaat": {
+      "bytes": 2149614,
+      "mb": 2.05,
+      "stamp": "1ac3ab1fb857"
+    },
+    "ar_mutaharrik": {
+      "bytes": 1806018,
+      "mb": 1.72,
+      "stamp": "bb4f9b3c83d1"
+    },
+    "ar_tanween": {
+      "bytes": 1452915,
+      "mb": 1.39,
+      "stamp": "1b3b6218c978"
+    },
+    "ar_tanween_drill": {
+      "bytes": 19115060,
+      "mb": 18.23,
+      "stamp": "380783a85fed"
+    },
+    "ar_saghira": {
+      "bytes": 2244237,
+      "mb": 2.14,
+      "stamp": "5c96a102c365"
+    },
+    "ar_sukun": {
+      "bytes": 3747028,
+      "mb": 3.57,
+      "stamp": "84e61d0743d1"
+    },
+    "ar_madi": {
+      "bytes": 8801664,
+      "mb": 8.39,
+      "stamp": "195c9d829a82"
     }
   }
 }
