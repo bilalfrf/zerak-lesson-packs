@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "builtAt": "2026-09-17T17:57:01.144Z",
+  "builtAt": "2026-09-18T05:05:19.091Z",
   "packs": {
     "ar_harakat": {
       "bytes": 29001806,
@@ -341,9 +341,9 @@
       "stamp": "1b3b6218c978"
     },
     "ar_tanween_drill": {
-      "bytes": 19115060,
-      "mb": 18.23,
-      "stamp": "380783a85fed"
+      "bytes": 28756201,
+      "mb": 27.42,
+      "stamp": "deca6654addf"
     },
     "ar_saghira": {
       "bytes": 2244237,
