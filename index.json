@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "builtAt": "2026-10-22T17:04:51.729Z",
+  "builtAt": "2026-10-23T03:19:29.975Z",
   "packs": {
     "ar_harakat": {
       "bytes": 29001806,
@@ -28,9 +28,9 @@
       "mb": 9.97
     },
     "fa_core": {
-      "bytes": 61917106,
-      "mb": 59.05,
-      "stamp": "6a216328c67e"
+      "bytes": 64027184,
+      "mb": 61.06,
+      "stamp": "5f3ded965ee7"
     },
     "ps_core": {
       "bytes": 17808850,
